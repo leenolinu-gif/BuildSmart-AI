@@ -1,0 +1,1 @@
+"""BuildSmart AI utility package."""

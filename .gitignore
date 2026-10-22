@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.python-version
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated files
+reports/*.pdf
+reports/*.png
+*.log
+
+# Keep the generated example dataset and model bundle tracked by default.
+# Uncomment these if you prefer to exclude generated artifacts:
+# data/construction_dataset.xlsx
+# models/best_model.pkl
+# models/model_metrics.json
