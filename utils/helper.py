@@ -1,4 +1,4 @@
-```python
+
 from pathlib import Path
 import logging
 from datetime import datetime
@@ -48,4 +48,3 @@ def money(value):
 
 def timestamp():
     return datetime.now().strftime("%d-%m-%Y %H:%M:%S")
-```
